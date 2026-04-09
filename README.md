@@ -7,7 +7,7 @@ Estudante de Sistemas de Informação • UNINOVE • São Paulo, SP
 
 ## Sobre mim
 
-🎯 Focado em **Análise de Dados e Automação**
+🎯 Focado em **Análise de Dados**
 🐍 Desenvolvendo projetos com **Python** e explorando **SQL**
 📚 Estudando na plataforma Beecrowd para aprimorar lógica de programação
 🚀 Em busca da minha primeira experiência profissional em TI
